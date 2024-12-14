@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/EmanSaeed331/RabbitMq-Nodejs.git
-cd rabbitmq-nodejs-example
+cd RabbitMq-Nodejs
 ```
 ### 2. Install Dependencies
 ```bash
